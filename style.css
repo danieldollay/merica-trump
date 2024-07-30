@@ -340,6 +340,7 @@ header .right {
   margin-bottom: 25px;
   position: relative;
   z-index: 1;
+  text-align: center;
 }
 
 #first .overlay {
